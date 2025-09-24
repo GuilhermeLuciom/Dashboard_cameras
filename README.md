@@ -1,4 +1,4 @@
-# Dashboard_cameras
+# Dashboard_grafana
 
 # Dashboard Grafana + Template Zabbix para Monitoramento de Câmeras
 
