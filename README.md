@@ -4,6 +4,12 @@
 
 Este repositório contém um **dashboard desenvolvido no Grafana** e o **template do Zabbix** utilizados para monitorar o status e as estatísticas de câmeras de CFTV.
 
+![Visão Geral](dashboard1.png)  
+
+
+![Status das Câmeras](dashboard2.png)  
+
+
 ### 🔹 Conteúdo
 - **Dashboard Grafana**: painel pronto para importação no Grafana, com visualização otimizada para câmeras.  
 - **Template Zabbix**: modelo utilizado como base para coleta e integração dos dados exibidos no dashboard.  
@@ -32,7 +38,6 @@ O painel e o template foram testados e validados nos seguintes modelos de gravad
 ### 🔹 Exemplo de visualização
 Abaixo seguem algumas capturas de tela do dashboard em funcionamento:
 
-![Visão Geral](imagens/dashboard1.png)  
-![Status das Câmeras](imagens/dashboard2.png)  
+
 
 ---
